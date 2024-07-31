@@ -27,11 +27,7 @@ def delete_task():
     else:
         print("No tasks to delete.")
          
-        
-   
-
-
-
+##Function to list all the tasks
 def list_tasks():
 
     if not tasks:
